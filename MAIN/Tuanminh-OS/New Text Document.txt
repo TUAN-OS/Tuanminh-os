@@ -1,0 +1,3 @@
+local SafeMode = boot.true require BootPermission, BootMenu:connect()
+print("booting to os")
+print("loaded Driver.C")
